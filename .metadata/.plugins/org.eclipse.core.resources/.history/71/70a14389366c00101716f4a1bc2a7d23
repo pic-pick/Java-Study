@@ -1,0 +1,10 @@
+package oopClass.sec02;
+
+public class RectangleMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

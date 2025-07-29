@@ -1,0 +1,10 @@
+package oopClass.sec01;
+
+public class carMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

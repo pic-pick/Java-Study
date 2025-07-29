@@ -1,0 +1,11 @@
+package oopClass.sec05;
+
+public class TvMain {
+
+	public static void main(String[] args) {
+		// 객체 배열 생성
+		Tv[] tvArr = new Tv[3];
+
+	}
+
+}
