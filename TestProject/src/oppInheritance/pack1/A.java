@@ -1,5 +1,6 @@
 package oppInheritance.pack1;
 
-public class A {
+//클래스 접근 제한 : 생략하면 default
+class A {
 
 }
