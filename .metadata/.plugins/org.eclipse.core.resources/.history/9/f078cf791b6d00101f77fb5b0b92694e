@@ -1,0 +1,10 @@
+package oppInheritance.sec05;
+
+public class SuperRefMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
