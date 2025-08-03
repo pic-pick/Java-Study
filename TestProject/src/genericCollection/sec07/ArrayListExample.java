@@ -1,0 +1,39 @@
+package genericCollection.sec07;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class ArrayListExample {
+	public static void main(String[] args) {
+		// ArrayList를 사용하여 4개의 단어를 입력받고 가장 긴 단어와 길이를 출력
+		Scanner sc = new Scanner(System.in);
+		List<String> list = new ArrayList<>();
+		
+		for (int i=0; i<4; i++) {
+			System.out.print("단어를 입력하게요>>");
+			String str = sc.next();
+			list.add(str);
+		}
+		
+		System.out.println("--------------------------------");
+		
+		for(String str : list) {
+			System.out.print(str + " ");
+		}
+		
+		System.out.println();
+
+		String longStr = "";
+		for (String str : list) {
+			if(str.length() > longStr.length()) {
+				longStr = str;
+			}
+		}
+		System.out.println("가장 긴 단어는 : " + longStr);
+		System.out.println("가장 긴 단어의 길이는 : "	 + longStr.length());
+
+
+		
+	}
+}

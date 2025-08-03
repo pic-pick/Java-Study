@@ -1,0 +1,15 @@
+package interfacePkg.src01;
+
+public class SamsungPhoneMain {
+
+	public static void main(String[] args) {
+		// interface 사용
+		SamsungPhone sp = new SamsungPhone();
+		sp.sendCall();
+
+		// interface 참조변수 사용
+		ISmartPhone isp = new SamsungPhone();
+		isp.sendCall();
+	}
+
+}

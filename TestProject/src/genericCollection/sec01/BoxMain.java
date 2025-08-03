@@ -1,0 +1,17 @@
+package genericCollection.sec01;
+
+public class BoxMain {
+
+	public static void main(String[] args) {
+		// Box 클래스 활용
+		Box box = new Box();
+		box.set("홍길동");
+		
+		String name = (String)box.get();
+		System.out.println("name");
+		box.set(7);
+		int no = box2.get();
+
+	}
+
+}

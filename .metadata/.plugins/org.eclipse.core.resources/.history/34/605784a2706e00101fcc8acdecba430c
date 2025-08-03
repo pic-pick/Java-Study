@@ -1,0 +1,23 @@
+package interfacePkg.src05;
+
+public class RemoteControl implements interfacePkg.src02.RemoteControl {
+
+	@Override
+	public void turnOn() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void turnOff() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void setVolume(int volume) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
