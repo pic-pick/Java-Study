@@ -1,0 +1,10 @@
+package genericCollection.sec09;
+
+public class LinkedListPrdMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

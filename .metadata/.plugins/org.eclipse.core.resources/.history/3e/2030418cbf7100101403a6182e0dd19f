@@ -1,0 +1,10 @@
+package oopApi.sec05;
+
+public class RandomSeed {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

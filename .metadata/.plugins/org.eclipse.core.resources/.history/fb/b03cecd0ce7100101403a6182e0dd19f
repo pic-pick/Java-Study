@@ -1,0 +1,9 @@
+package multiThread.sec02;
+
+public class BeepTask implements Runnable{
+	//beep음 출력 담당 - Runnable을 구현
+	@Override
+	public void run() {
+		
+	}
+}
