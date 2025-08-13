@@ -6,7 +6,7 @@ import game_project.info.*;
 
 public class AppStart {
 
-	private static void showMenu() {
+	public static void showMenu() {
 		
 				
 				System.out.println("              메뉴");
