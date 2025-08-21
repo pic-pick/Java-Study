@@ -260,3 +260,29 @@ Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse
 
 !ENTRY ch.qos.logback.classic 1 0 2025-08-20 19:18:32.423
 !MESSAGE Logback config file: /Users/hwani/Desktop/Workspace/JavaWorkspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+!SESSION 2025-08-21 09:49:07.762 -----------------------------------------------
+eclipse.buildId=4.34.0.20241128-0756
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -Dswt.autoScale=true -Dswt.scale=3 -keyring /Users/hwani/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -Dswt.autoScale=true -Dswt.scale=3 -keyring /Users/hwani/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-21 09:49:09.155
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-21 09:49:12.556
+!MESSAGE Logback config file: /Users/hwani/Desktop/Workspace/JavaWorkspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
+!SESSION 2025-08-21 15:06:28.210 -----------------------------------------------
+eclipse.buildId=4.34.0.20241128-0756
+java.version=21.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -Dswt.autoScale=true -Dswt.scale=3 -keyring /Users/hwani/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -Dswt.autoScale=true -Dswt.scale=3 -keyring /Users/hwani/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-21 15:06:29.278
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-08-21 15:06:31.928
+!MESSAGE Logback config file: /Users/hwani/Desktop/Workspace/JavaWorkspace/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.0.20241001-1350.xml
